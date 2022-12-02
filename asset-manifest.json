@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-portfolio-website-1/static/css/main.aff1b360.css",
-    "main.js": "/react-portfolio-website-1/static/js/main.5d14b5d3.js",
+    "main.css": "/react-portfolio-website-1/static/css/main.d49efed5.css",
+    "main.js": "/react-portfolio-website-1/static/js/main.f23ccdbc.js",
     "static/media/dp.jpg": "/react-portfolio-website-1/static/media/dp.6fa685fc1b8244ce3007.jpg",
-    "static/media/moosemoose.png": "/react-portfolio-website-1/static/media/moosemoose.ca00891043e703d3d97a.png",
+    "static/media/chocobear.png": "/react-portfolio-website-1/static/media/chocobear.43f56d70ee2c93434ef0.png",
     "static/media/resume_V3.pdf": "/react-portfolio-website-1/static/media/resume_V3.3003abfcdc745fc7a2d2.pdf",
     "index.html": "/react-portfolio-website-1/index.html",
-    "main.aff1b360.css.map": "/react-portfolio-website-1/static/css/main.aff1b360.css.map",
-    "main.5d14b5d3.js.map": "/react-portfolio-website-1/static/js/main.5d14b5d3.js.map"
+    "main.d49efed5.css.map": "/react-portfolio-website-1/static/css/main.d49efed5.css.map",
+    "main.f23ccdbc.js.map": "/react-portfolio-website-1/static/js/main.f23ccdbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.aff1b360.css",
-    "static/js/main.5d14b5d3.js"
+    "static/css/main.d49efed5.css",
+    "static/js/main.f23ccdbc.js"
   ]
 }
