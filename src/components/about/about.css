@@ -16,12 +16,17 @@
     );
     display: grid;
     place-items: center;
+    transform: rotate(720deg);
+}
+
+.about__me:hover {
+    transform: rotate(0deg);
 }
 
 .about__me-image {
     border-radius: 2rem;
     overflow: hidden;
-    transform: rotate(10deg);
+    transform: rotate(20deg);
     transition: var(--transition)
 }
 
