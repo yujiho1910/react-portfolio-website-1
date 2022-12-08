@@ -26,7 +26,7 @@ const data = [
     image: IMG3,
     title: 'Sudoku',
     subtext: 'Language: Java',
-    github: 'https://github.com/yujiho1910/',
+    github: 'https://github.com/yujiho1910/Sudoku',
     demo: 'https://github.com'
   }
 ] // to make it dynamic
