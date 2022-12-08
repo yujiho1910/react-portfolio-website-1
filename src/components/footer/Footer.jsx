@@ -6,7 +6,7 @@ import {RiInstagramFill} from 'react-icons/ri'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className="footer__logo">JingRui</a>
+      <a href="#" className="footer__logo">Jing Rui</a>
 
       <ul className="permalinks">
         <li><a href="#">Home</a></li>
